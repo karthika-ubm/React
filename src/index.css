@@ -1,0 +1,23 @@
+.bodymain {
+    background-color: rgba(39, 93, 245, 0.1);
+}
+
+.cards {
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 3rem;
+}
+
+.cardin {
+    box-shadow: 10px 5px 5px rgba(3, 36, 125, 0.44);
+}
+
+/* .cards :hover {
+    transform: scale(1.1);
+}    */
+
+
+.cardimg {
+    width: 30%;
+    height: 30vh;
+}
